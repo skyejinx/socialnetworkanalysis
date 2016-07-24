@@ -6,4 +6,4 @@ Organizational Behavior Project 2016
 * facebookdata.csv : JSON converted to CSV containing every undirected pair of friends. 
 * Visualizations : Various visualizaitons produced by network_project.py
 
-* Note : This is a project for Carnegie Mellon University's Organizational Behavior Course (70-311) with Evelyn Zhang (website here: http://www.zyevelyn.com/).  
+* Note : This is a project for Carnegie Mellon University's Organizational Behavior Course (70-311) with Evelyn Zhang (website here: http://www.zyevelyn.com/). 
